@@ -1,0 +1,25 @@
+E:\Курсовая миапр\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\Курсовая миапр\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\Курсовая миапр\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\Курсовая миапр\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+E:\Курсовая миапр\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\Курсовая миапр\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\Курсовая миапр\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\Курсовая миапр\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\Курсовая миапр\CourseWork\CourseWork\obj\Debug\CourseWork.ResultsForm.resources
+E:\Курсовая миапр\CourseWork\CourseWork\obj\Debug\CourseWork.UserDataForm.resources
+E:\Курсовая миапр\CourseWork\CourseWork\obj\Debug\CourseWork.Graphics.resources
+E:\ТИОПО\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\ТИОПО\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ТИОПО\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.Graphics.resources
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.LoginForm.resources
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.RegisterForm.resources
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.ResultsForm.resources
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.UserDataForm.resources
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+E:\ТИОПО\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
